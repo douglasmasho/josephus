@@ -1,5 +1,5 @@
-# josephus
-josephus problem
+# The Josephus Problem
+The Josephus problem
 
 A group of soldiers were captured by the roman army, they wanted to avoid capture or suicide. So they came up with a system. They would stand in a circle
 and the first man wiould kill the man to the left of him, and the next remaining living man would kill the next remaining living man. The pattern cotinues until there is only one person left,
